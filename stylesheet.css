@@ -1,5 +1,8 @@
-div {
+div.vilu {
     background: rgb(82, 197, 107);
     color: #1b217c;
     border: 2px solid rgb(233, 11, 22);
+    h1 {text-align: center;}
+    p {text-align: center;}
+    div {text-align: center;}
 }
