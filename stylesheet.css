@@ -1,5 +1,16 @@
 div.vilu {
-    background: rgb(82, 197, 107);
-    color: #1b217c;
-    border: 2px solid rgb(233, 11, 22);
+    background: rgb(161, 23, 23);
+    color: #1c438a;
+    border: 2px solid rgb(229, 233, 11);  
+}
+.h1 {
+    font-size: 20px;
+}
+.p {
+    font-size: 12px;
+    color: green;
+}
+body {
+    background-color: black;
+    color: white;
 }
