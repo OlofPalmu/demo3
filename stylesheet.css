@@ -1,7 +1,9 @@
 div.vilu {
     background: rgb(161, 23, 23);
     color: #1c438a;
-    border: 2px solid rgb(229, 233, 11);  
+    border: dotted 2px;  
+    width: 100px;
+    height: 100px;
 }
 .h1 {
     font-size: 20px;
@@ -13,4 +15,10 @@ div.vilu {
 body {
     background-color: black;
     color: white;
+}
+.ul {
+    list-style-type: square;
+}
+.ol {
+    list-style-type: lower-alpha;
 }
