@@ -34,3 +34,6 @@ body {
     -o-background-size: cover;
     background-size: cover;
 }
+img {
+    height: 100px;
+}
