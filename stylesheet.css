@@ -6,19 +6,31 @@ div.vilu {
     height: 100px;
 }
 .h1 {
-    font-size: 20px;
+    font-size: 60px;
+    color: rgb(9, 12, 190);
+    padding: 10px;
+    background-color: blanchedalmond;
+    border-radius: 8px;
+    margin: 100px;
 }
 .p {
-    font-size: 12px;
-    color: green;
-}
-body {
-    background-color: black;
-    color: white;
+    font-size: 60px;
+    color: rgb(9, 12, 190);
+    padding: 10px;
+    background-color: blanchedalmond;
+    border-radius: 8px;
+    margin: 100px;
 }
 .ul {
     list-style-type: square;
 }
 .ol {
     list-style-type: lower-alpha;
+}
+body {
+    background: url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/a7aad847436637.56080409ddf10.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
