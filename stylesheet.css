@@ -28,6 +28,9 @@ div.vilu {
     list-style-type: lower-alpha;
 }
 body {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
     background: url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/a7aad847436637.56080409ddf10.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -38,11 +41,11 @@ img {
     height: 100px;
 }
 #header1 {
-
+background-color: blue;
 }
 #nav1 {
-
+background-color: blue;
 }
 #section1 {
-
+background-color: blue;
 }
