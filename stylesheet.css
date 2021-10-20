@@ -40,22 +40,22 @@ img {
     height: 100px;
 }
 header {
-text-align: center;
-padding-block: 10px;
-font-size: 20px;
-background-color: blanchedalmond;
+    text-align: center;
+    padding-block: 10px;
+    font-size: 20px;
+    background-color: blanchedalmond;
 }
 nav {
-background-color: blue;
-width: 20%;
-height: 600px;
-float: left;
+    background-color: blue;
+    width: 20%;
+    height: 600px;
+    float: left;
 }
 section {
-width: 80%;
-height: 600px;
-float: left;
-background-color: rgb(16, 31, 167);
+    width: 80%;
+    height: 600px;
+    float: left;
+    background-color: rgb(16, 31, 167);
 }
 nav ul {
     list-style-type: none;
@@ -64,6 +64,4 @@ nav ul {
 nav a {
     float: left;
     text-decoration: none;
-}
-
 }
