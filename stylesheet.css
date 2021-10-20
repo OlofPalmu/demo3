@@ -15,7 +15,7 @@ div.vilu {
 }
 .p {
     font-size: 60px;
-    color: rgb(9, 12, 190);
+    color: blanchedalmond;
     padding: 10px;
     background-color: blanchedalmond;
     border-radius: 8px;
@@ -30,11 +30,7 @@ div.vilu {
 body {
         margin-left: auto;
         margin-right: auto;
-        background: url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/a7aad847436637.56080409ddf10.jpg) no-repeat center center fixed;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
+        background-color: black;
 }
 img {
     height: 100px;
@@ -44,6 +40,7 @@ header {
     padding-block: 10px;
     font-size: 20px;
     background-color: blanchedalmond;
+    height: 110px;
 }
 nav {
     background-color: blue;
