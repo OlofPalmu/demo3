@@ -28,40 +28,34 @@ div.vilu {
     list-style-type: lower-alpha;
 }
 body {
-        width: 90%;
         margin-left: auto;
         margin-right: auto;
-    background: url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/a7aad847436637.56080409ddf10.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+        background: url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/a7aad847436637.56080409ddf10.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
 }
 img {
     height: 100px;
 }
-#header1 {
+header {
 text-align: center;
-padding: 20px;
-font-size: 40px;
-color: rgb(9, 12, 190);
-background-color: blanchedalmond;
-}
-#nav1 {
-background-color: blue;
-width: 15%;
-float: left;
-list-style-type: none;
-text-decoration: none;
-}
-#section1 {
-width: 75%;
+padding-block: 10px;
 font-size: 20px;
-color: rgb(9, 12, 190);
-padding: 10px;
 background-color: blanchedalmond;
-border-radius: 8px;
-margin: 100px;
+}
+nav {
+background-color: blue;
+width: 20%;
+height: 600px;
+float: left;
+}
+section {
+width: 80%;
+height: 600px;
+float: left;
+background-color: rgb(16, 31, 167);
 }
 nav ul {
     list-style-type: none;
@@ -71,18 +65,5 @@ nav a {
     float: left;
     text-decoration: none;
 }
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-.column {
-    float: left;
-    padding: 10px;
-}
-.column.side {
-    width: 50%;
-}
-.column.middle {
-    width: 50%;
+
 }
