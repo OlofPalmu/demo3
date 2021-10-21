@@ -5,6 +5,11 @@ div.vilu {
     width: 100px;
     height: 100px;
 }
+.h1seko {
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
 .h1 {
     font-size: 60px;
     color: rgb(9, 12, 190);
@@ -12,6 +17,12 @@ div.vilu {
     background-color: blanchedalmond;
     border-radius: 8px;
     margin: 100px;
+}
+.h2 {
+    color: blanchedalmond;
+}
+.p1 {
+    color: blanchedalmond;
 }
 .p {
     font-size: 60px;
@@ -40,7 +51,7 @@ header {
     padding-block: 10px;
     font-size: 20px;
     background-color: blanchedalmond;
-    height: 110px;
+    height: 75px;
 }
 nav {
     background-color: blue;
@@ -61,4 +72,7 @@ nav ul {
 nav a {
     float: left;
     text-decoration: none;
+}
+a:hover {
+    background-color: red;
 }
